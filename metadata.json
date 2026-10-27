@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Sadguru Natu Vaidyam - Srinivas Maharaj",
+  "description": "సద్గురు నాటు వైద్యం \u0026 తంత్ర కేంద్రం - శ్రీనివాస్ మహారాజ్. వశీకరణ, భార్యాభర్తల సమస్యలు, ఆర్థిక ఇబ్బందులు, మరుగు మందు, యంత్రాలు మరియు ప్రతి సమస్యకు శాశ్వత పరిష్కారం.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

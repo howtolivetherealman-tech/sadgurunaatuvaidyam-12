@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Noto Sans Telugu', 'Lohit Telugu', 'Telugu Vijayam', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: 'Noto Sans Telugu', 'Lohit Telugu', 'Telugu Vijayam', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  background-color: #090503;
+  color: #fef3c7;
+  overflow-x: hidden;
+}
+
+/* Custom smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

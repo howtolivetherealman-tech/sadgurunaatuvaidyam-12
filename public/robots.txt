@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Hostinger Crawlers & Verification
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# XML Sitemap
+Sitemap: https://sadgurunatuvaidyam.com/sitemap.xml

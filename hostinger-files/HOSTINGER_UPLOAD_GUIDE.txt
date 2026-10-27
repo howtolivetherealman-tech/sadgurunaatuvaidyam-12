@@ -1,0 +1,51 @@
+================================================================================
+HOSTINGER UPLOAD & SETUP GUIDE (తెలుగు & ENGLISH)
+Sadguru Natu Vaidyam & Tantra Centre (శ్రీనివాస్ మహారాజ్)
+================================================================================
+
+[TELUGU / తెలుగు వివరణ]
+ఈ ఫోల్డర్‌లో Hostinger లో వెబ్‌సైట్ అప్‌లోడ్ చేయడానికి అవసరమైన అన్ని ఫైల్స్ ఉన్నాయి:
+1. index.html   -> సంపూర్ణ వెబ్‌సైట్ (24 సేవలు, యూట్యూబ్ ఛానల్ లింక్, ప్రైవేట్ యాడ్స్, యంత్రాలు)
+2. .htaccess    -> Hostinger LiteSpeed సర్వర్ కోసం HTTPS రీడైరెక్ట్, ఫాస్ట్ క్యాషింగ్ & రక్షణ ఫైల్
+3. robots.txt   -> గూగుల్ సెర్చ్‌లో వెబ్‌సైట్ త్వరగా ర్యాంక్ అవ్వడానికి
+4. sitemap.xml  -> వెబ్‌సైట్ పేజీలు & సెక్షన్ల లింకుల సైట్‌మ్యాప్
+
+HOSTINGER లో అప్‌లోడ్ చేసే విధానం (5 సులువైన స్టెప్స్):
+--------------------------------------------------------------------------------
+స్టెప్ 1: మీ Hostinger ఖాతాలో లాగిన్ అవ్వండి: https://hpanel.hostinger.com
+స్టెప్ 2: ఎడమ వైపు ఉన్న 'Websites' పై క్లిక్ చేసి, మీ డొమైన్ పక్కన ఉన్న 'Manage' బటన్ నొక్కండి.
+స్టెప్ 3: 'File Manager' (ఫైల్ మేనేజర్) ఓపెన్ చేయండి.
+స్టెప్ 4: అక్కడ 'public_html' అనే ఫోల్డర్ కనిపిస్తుంది. దానిపై డబుల్ క్లిక్ చేసి ఓపెన్ చేయండి.
+         (గమనిక: ఒకవేళ అక్కడ పాత డెమో ఫైల్స్ ఉంటే వాటిని డిలీట్ చేయవచ్చు).
+స్టెప్ 5: పైన ఉన్న 'Upload' బటన్ నొక్కి, ఈ 4 ఫైల్స్‌ను నేరుగా public_html లోకి అప్‌లోడ్ చేయండి:
+         - index.html
+         - .htaccess  (ఇది డాట్‌తో మొదలవుతుంది కాబట్టి hidden files లో కనిపించవచ్చు)
+         - robots.txt
+         - sitemap.xml
+
+వెంటనే మీ వెబ్‌సైట్ Hostinger లో లైవ్ అవుతుంది! ఎటువంటి npm లేదా nodejs ఇన్‌స్టాలేషన్ అవసరం లేదు.
+అడ్మిన్ పిన్: 1977
+
+================================================================================
+[ENGLISH INSTRUCTIONS]
+Files provided for Hostinger:
+1. index.html   -> 100% self-contained standalone website (all 24 services, video gallery, ads, yantras)
+2. .htaccess    -> Production LiteSpeed/Apache config with SSL redirect, GZIP compression & SPA routing
+3. robots.txt   -> Directs Google and Bing search crawlers
+4. sitemap.xml  -> Search engine sitemap
+
+HOW TO UPLOAD TO HOSTINGER HPANEL (5 Simple Steps):
+--------------------------------------------------------------------------------
+Step 1: Log in to your Hostinger hPanel dashboard (https://hpanel.hostinger.com)
+Step 2: Go to 'Websites' and click 'Manage' next to your domain name.
+Step 3: Click 'File Manager' under the Files section.
+Step 4: Double-click and open the 'public_html' folder.
+Step 5: Click the 'Upload' button (arrow icon at top right) and upload these files:
+        - index.html
+        - .htaccess
+        - robots.txt
+        - sitemap.xml
+
+Your website is now 100% live with fast caching and SSL enabled!
+Admin PIN: 1977
+================================================================================
